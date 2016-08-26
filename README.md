@@ -1,0 +1,2 @@
+# Snow Crab Starter Site
+This starter site was developed to serve as a clean starting point for Websites that use ASP.NET Core 1.0, TypeScript 2.0, Bootstrap v4 and WebPack 2. It's made with love by Snow Crab Software, LLC for use in various development projects.
